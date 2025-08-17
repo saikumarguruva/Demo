@@ -146,6 +146,7 @@ nav a:hover{ color: #606060;
 
 .left-image { margin:4px;
              position:absolute;
+             max-width:10%;
 
 
       
